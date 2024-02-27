@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419864477163",
+    "project_id": "aquae-florentis",
+    "storage_bucket": "aquae-florentis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419864477163:android:dea701d919429bd24dedae",
+        "android_client_info": {
+          "package_name": "com.example.aquae_florentis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419864477163-vee3j8mlhg6ikau6eg3fvtand55p5f2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTZVsuQ2CKhEGPYuSXvF9HOMoPsuKvKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419864477163-vee3j8mlhg6ikau6eg3fvtand55p5f2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

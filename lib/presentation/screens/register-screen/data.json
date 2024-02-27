@@ -1,0 +1,1198 @@
+{
+    "plus_code" : 
+    {
+       "compound_code" : "CFP8+35W Lekki, Nigeria",
+       "global_code" : "6FR5CFP8+35W"
+    },
+    "results" : 
+    [
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "2",
+                "short_name" : "2",
+                "types" : 
+                [
+                   "street_number"
+                ]
+             },
+             {
+                "long_name" : "Lawrence Akinade Close",
+                "short_name" : "Lawrence Akinade Cl",
+                "types" : 
+                [
+                   "route"
+                ]
+             },
+             {
+                "long_name" : "Lekki Phase I",
+                "short_name" : "Lekki Phase I",
+                "types" : 
+                [
+                   "neighborhood",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "2 Lawrence Akinade Cl, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.435450899999999,
+                   "lng" : 3.4653806
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4352199,
+                   "lng" : 3.4652733
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4353661,
+                "lng" : 3.4653375
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.436684380291502,
+                   "lng" : 3.466675930291502
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.433986419708497,
+                   "lng" : 3.463977969708498
+                }
+             }
+          },
+          "place_id" : "ChIJTf4Geqz1OxAR2bLFxSlYq04",
+          "types" : 
+          [
+             "premise"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "12",
+                "short_name" : "12",
+                "types" : 
+                [
+                   "street_number"
+                ]
+             },
+             {
+                "long_name" : "Lawrence Akande Close",
+                "short_name" : "Lawrence Akande Cl",
+                "types" : 
+                [
+                   "route"
+                ]
+             },
+             {
+                "long_name" : "Lekki Phase I",
+                "short_name" : "Lekki Phase I",
+                "types" : 
+                [
+                   "neighborhood",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "Lagos",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "12 Lawrence Akande Cl, Lekki Phase I, Lagos 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 6.435431899999999,
+                "lng" : 3.4649953
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.436780880291502,
+                   "lng" : 3.466344280291502
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.434082919708497,
+                   "lng" : 3.463646319708498
+                }
+             }
+          },
+          "place_id" : "ChIJkWZpeKz1OxARXeZIkHSMmIk",
+          "plus_code" : 
+          {
+             "compound_code" : "CFP7+5X Lagos, Nigeria",
+             "global_code" : "6FR5CFP7+5X"
+          },
+          "types" : 
+          [
+             "street_address"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "25",
+                "short_name" : "25",
+                "types" : 
+                [
+                   "street_number"
+                ]
+             },
+             {
+                "long_name" : "Professor Kiumi Akingbehin Street",
+                "short_name" : "Professor Kiumi Akingbehin St",
+                "types" : 
+                [
+                   "route"
+                ]
+             },
+             {
+                "long_name" : "Lekki Phase I",
+                "short_name" : "Lekki Phase I",
+                "types" : 
+                [
+                   "neighborhood",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "25 Professor Kiumi Akingbehin St, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 6.435594,
+                "lng" : 3.465152
+             },
+             "location_type" : "RANGE_INTERPOLATED",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.436942980291502,
+                   "lng" : 3.466500980291502
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.434245019708498,
+                   "lng" : 3.463803019708498
+                }
+             }
+          },
+          "place_id" : "Ej8yNSBQcm9mZXNzb3IgS2l1bWkgQWtpbmdiZWhpbiBTdCwgTGVra2kgUGhhc2UgSSwgTGVra2ksIE5pZ2VyaWEiGhIYChQKEgmFbbl7rPU7EBFfE5PtWofw_hAZ",
+          "types" : 
+          [
+             "street_address"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "CFP8+35",
+                "short_name" : "CFP8+35",
+                "types" : 
+                [
+                   "plus_code"
+                ]
+             },
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "CFP8+35 Lekki, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.43525,
+                   "lng" : 3.4655
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.435124999999999,
+                   "lng" : 3.465375
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4352452,
+                "lng" : 3.4654448
+             },
+             "location_type" : "GEOMETRIC_CENTER",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.436536480291501,
+                   "lng" : 3.466786480291502
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.433838519708497,
+                   "lng" : 3.464088519708498
+                }
+             }
+          },
+          "place_id" : "GhIJw_bu6rC9GUAR_76QHzu5C0A",
+          "plus_code" : 
+          {
+             "compound_code" : "CFP8+35 Lekki, Nigeria",
+             "global_code" : "6FR5CFP8+35"
+          },
+          "types" : 
+          [
+             "plus_code"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "25",
+                "short_name" : "25",
+                "types" : 
+                [
+                   "street_number"
+                ]
+             },
+             {
+                "long_name" : "Lawrence Akande Close",
+                "short_name" : "Lawrence Akande Cl",
+                "types" : 
+                [
+                   "route"
+                ]
+             },
+             {
+                "long_name" : "Lekki Phase I",
+                "short_name" : "Lekki Phase I",
+                "types" : 
+                [
+                   "neighborhood",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "25 Lawrence Akande Cl, Lekki Phase I, Lekki 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.435594,
+                   "lng" : 3.4651238
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4347498,
+                   "lng" : 3.4651131
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.435171899999999,
+                "lng" : 3.4651184
+             },
+             "location_type" : "GEOMETRIC_CENTER",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.436520880291503,
+                   "lng" : 3.466467430291502
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.433822919708498,
+                   "lng" : 3.463769469708498
+                }
+             }
+          },
+          "place_id" : "ChIJ3eI6dqz1OxAR5uuF4a-iK2U",
+          "types" : 
+          [
+             "route"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Lekki Phase I",
+                "short_name" : "Lekki Phase I",
+                "types" : 
+                [
+                   "neighborhood",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "Lagos",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "Lekki Phase I, Lagos 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.459897600000001,
+                   "lng" : 3.4832851
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4260242,
+                   "lng" : 3.4539765
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4332645,
+                "lng" : 3.4750836
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.459897600000001,
+                   "lng" : 3.4832851
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4260242,
+                   "lng" : 3.4539765
+                }
+             }
+          },
+          "place_id" : "ChIJdybUPVL0OxARfV3YFIsHnoQ",
+          "types" : 
+          [
+             "neighborhood",
+             "political"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Lekki Phase 1",
+                "short_name" : "Lekki Phase 1",
+                "types" : 
+                [
+                   "political",
+                   "sublocality",
+                   "sublocality_level_1"
+                ]
+             },
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             }
+          ],
+          "formatted_address" : "Lekki Phase 1, Lekki 106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.4703045,
+                   "lng" : 3.4894716
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4300926,
+                   "lng" : 3.452561
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.447809299999999,
+                "lng" : 3.4723495
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.4703045,
+                   "lng" : 3.4894716
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4300926,
+                   "lng" : 3.452561
+                }
+             }
+          },
+          "place_id" : "ChIJS9Q72lL0OxARKJ3cGrQfM0c",
+          "types" : 
+          [
+             "political",
+             "sublocality",
+             "sublocality_level_1"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Lekki/Ikate And Environs",
+                "short_name" : "Lekki/Ikate And Environs",
+                "types" : 
+                [
+                   "administrative_area_level_3",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "Lekki/Ikate And Environs, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.4744955,
+                   "lng" : 3.6008456
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.419379999999999,
+                   "lng" : 3.4462887
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4489788,
+                "lng" : 3.5104537
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.4744955,
+                   "lng" : 3.6008456
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.419379999999999,
+                   "lng" : 3.4462887
+                }
+             }
+          },
+          "place_id" : "ChIJjwOIWvL2OxARzfL6MAsvjE4",
+          "types" : 
+          [
+             "administrative_area_level_3",
+             "political"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "106104",
+                "short_name" : "106104",
+                "types" : 
+                [
+                   "postal_code"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "106104, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.525674,
+                   "lng" : 3.673803999999999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.397254999999999,
+                   "lng" : 3.4001691
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4595481,
+                "lng" : 3.5205641
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.525674,
+                   "lng" : 3.673803999999999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.397254999999999,
+                   "lng" : 3.4001691
+                }
+             }
+          },
+          "place_id" : "ChIJabH5Z972OxARISI7FLvSv7s",
+          "types" : 
+          [
+             "postal_code"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Eti Osa",
+                "short_name" : "Eti Osa",
+                "types" : 
+                [
+                   "administrative_area_level_2",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "Eti Osa, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.5165001,
+                   "lng" : 3.6737999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.391931899999999,
+                   "lng" : 3.3765075
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4589849,
+                "lng" : 3.6015207
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.5165001,
+                   "lng" : 3.6737999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.391931899999999,
+                   "lng" : 3.3765075
+                }
+             }
+          },
+          "place_id" : "ChIJMXoyEtz2OxARIt71U9xyiw8",
+          "types" : 
+          [
+             "administrative_area_level_2",
+             "political"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Lekki",
+                "short_name" : "Lekki",
+                "types" : 
+                [
+                   "locality",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "Lekki, Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.612470999999999,
+                   "lng" : 4.0970973
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4107062,
+                   "lng" : 3.452691
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.4698419,
+                "lng" : 3.5851718
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.612470999999999,
+                   "lng" : 4.0970973
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.4107062,
+                   "lng" : 3.452691
+                }
+             }
+          },
+          "place_id" : "ChIJZ0PH9V33OxARSs3B1vl9fmo",
+          "types" : 
+          [
+             "locality",
+             "political"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Lagos",
+                "short_name" : "LA",
+                "types" : 
+                [
+                   "administrative_area_level_1",
+                   "political"
+                ]
+             },
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "Lagos, Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.7004,
+                   "lng" : 4.3685999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.3678,
+                   "lng" : 2.705461
+                }
+             },
+             "location" : 
+             {
+                "lat" : 6.522704399999999,
+                "lng" : 3.6217802
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 6.7004,
+                   "lng" : 4.3685999
+                },
+                "southwest" : 
+                {
+                   "lat" : 6.3678,
+                   "lng" : 2.705461
+                }
+             }
+          },
+          "place_id" : "ChIJDVUn4rryOxAR1om-G3-tcec",
+          "types" : 
+          [
+             "administrative_area_level_1",
+             "political"
+          ]
+       },
+       {
+          "address_components" : 
+          [
+             {
+                "long_name" : "Nigeria",
+                "short_name" : "NG",
+                "types" : 
+                [
+                   "country",
+                   "political"
+                ]
+             }
+          ],
+          "formatted_address" : "Nigeria",
+          "geometry" : 
+          {
+             "bounds" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 13.8856449,
+                   "lng" : 14.677982
+                },
+                "southwest" : 
+                {
+                   "lat" : 4.1821001,
+                   "lng" : 2.676932
+                }
+             },
+             "location" : 
+             {
+                "lat" : 9.081999,
+                "lng" : 8.675276999999999
+             },
+             "location_type" : "APPROXIMATE",
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 13.8856449,
+                   "lng" : 14.677982
+                },
+                "southwest" : 
+                {
+                   "lat" : 4.1821001,
+                   "lng" : 2.676932
+                }
+             }
+          },
+          "place_id" : "ChIJDY2kfa8LThARyAvFaEH-qJk",
+          "types" : 
+          [
+             "country",
+             "political"
+          ]
+       }
+    ],
+    "status" : "OK"
+ }
